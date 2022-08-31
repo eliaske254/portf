@@ -31,11 +31,11 @@ const Work = () => {
               </div>
 
               <div className="pt-8 text-center">
-                <a href="/">
+                {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
-                </a>
+                </a> */}
                 <a href="https://github.com/eliaske254/noblebnb">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
@@ -58,11 +58,11 @@ const Work = () => {
               </div>
 
               <div className="pt-8 text-center">
-                <a href="/">
+                {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
-                </a>
+                </a> */}
                 <a href="https://github.com/eliaske254/airb">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
