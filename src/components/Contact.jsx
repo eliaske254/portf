@@ -15,7 +15,7 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-indigo-600 text-gray-300">
             Contact
           </p>
-          <p className="text-gray-300 py-4">
+          <p className="text-gray-300 py-4 text-2xl">
             Shoot me an email on the form below
           </p>
         </div>
