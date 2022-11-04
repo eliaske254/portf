@@ -10,11 +10,11 @@ import RubyonRails from "../assets/rails3.png";
 
 const Skills = () => {
   return (
-    <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
+    <div name="skills" className="text-gray-300 bg-slate-900">
       {/* Container */}
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-7xl mx-auto py-16 sm:py-32 px-8 sm:px-0">
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-indigo-600 ">
+          <p className="font-bold inline border-b-4 border-indigo-600 text-4xl">
             Tools
           </p>
           <p className="py-4 text-2xl">

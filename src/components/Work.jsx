@@ -8,13 +8,13 @@ import Airb from "../assets/airb.png";
 
 const Work = () => {
   return (
-    <div className="w-full md:h-screen text-gray-300 bg-slate-900">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+    <div name="work" className="w-full text-gray-300 bg-slate-900">
+      <div className="max-w-7xl mx-auto py-16 sm:py-32 px-8 sm:px-0">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-indigo-600">
             Work
           </p>
-          <p className="py-6 text-2xl">Check out some of my recent work</p>
+          <p className="py-6">Check out some of my recent work</p>
         </div>
         {/* container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
